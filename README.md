@@ -2,7 +2,7 @@
 
 **Yu-Gi-Oh! Portfolio Viewer** is a cross-platform, portable desktop application that allows collectors to visually track their collection of Yu-Gi-Oh! cards from the **Legend of Blue Eyes White Dragon (LOB)** set through to **Ancient Sanctuary (AST)**.
 
-![Yu-Gi-Oh! Portfolio Viewer Screenshot](image600.jpg)
+![Yu-Gi-Oh! Portfolio Viewer Screenshot](image600.png)
 
 ---
 
