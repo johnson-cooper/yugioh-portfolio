@@ -1,0 +1,159 @@
+[
+  {
+    "id": "MRD-000",
+    "name": "Gate Guardian",
+    "checked": false,
+    "quantity": 0,
+    "imageUrl": "images/mrd000.jpg"
+  },
+
+    {
+    "name": "Summoned Skull",
+    "id": "MRD-003",
+    "imageUrl": "images/mrd003.jpg",
+    "checked": false,
+    "quantity": 0
+  },
+  {
+    "name": "Harpie Lady Sisters",
+    "id": "MRD-009",
+    "imageUrl": "images/mrd009.jpg",
+    "checked": false,
+    "quantity": 0
+  },
+
+    {
+    "name": "B. Skull Dragon",
+    "id": "MRD-018",
+    "imageUrl": "images/mrd018.jpg",
+    "checked": false,
+    "quantity": 0
+  },
+  {
+    "name": "Sanga of the Thunder",
+    "id": "MRD-025",
+    "imageUrl": "images/mrd025.jpg",
+    "checked": false,
+    "quantity": 0
+  },
+  {
+    "name": "Kazejin",
+    "id": "MRD-026",
+    "imageUrl": "images/mrd026.jpg",
+    "checked": false,
+    "quantity": 0
+  },
+  {
+    "name": "Suijin",
+    "id": "MRD-027",
+    "imageUrl": "images/mrd027.jpg",
+    "checked": false,
+    "quantity": 0
+  },
+  {
+    "name": "Change of Heart",
+    "id": "MRD-060",
+    "imageUrl": "images/mrd060.jpg",
+    "checked": false,
+    "quantity": 0
+  },
+  {
+    "name": "Time Wizard",
+    "id": "MRD-065",
+    "imageUrl": "images/mrd065.jpg",
+    "checked": false,
+    "quantity": 0
+  },
+  {
+    "name": "Tribute to the Doomed",
+    "id": "MRD-057",
+    "imageUrl": "images/mrd057.jpg",
+    "checked": false,
+    "quantity": 0
+  },
+  {
+    "name": "Kuriboh",
+    "id": "MRD-071",
+    "imageUrl": "images/mrd071.jpg",
+    "checked": false,
+    "quantity": 0
+  },
+  {
+    "name": "Catapult Turtle",
+    "id": "MRD-075",
+    "imageUrl": "images/mrd075.jpg",
+    "checked": false,
+    "quantity": 0
+  },
+  {
+    "name": "Twin-Headed Thunder Dragon",
+    "id": "MRD-120",
+    "imageUrl": "images/mrd120.jpg",
+    "checked": false,
+    "quantity": 0
+  },
+  {
+    "name": "Garnecia Elefantis",
+    "id": "MRD-125",
+    "imageUrl": "images/mrd125.jpg",
+    "checked": false,
+    "quantity": 0
+  },
+  {
+    "name": "Barrel Dragon",
+    "id": "MRD-126",
+    "imageUrl": "images/mrd126.jpg",
+    "checked": false,
+    "quantity": 0
+  },
+  {
+    "name": "Solemn Judgment",
+    "id": "MRD-127",
+    "imageUrl": "images/mrd127.jpg",
+    "checked": false,
+    "quantity": 0
+  },
+  {
+    "name": "Magic Jammer",
+    "id": "MRD-128",
+    "imageUrl": "images/mrd128.jpg",
+    "checked": false,
+    "quantity": 0
+  },
+  {
+    "name": "Seven Tools of the Bandit",
+    "id": "MRD-129",
+    "imageUrl": "images/mrd129.jpg",
+    "checked": false,
+    "quantity": 0
+  },
+  {
+    "name": "Horn of Heaven",
+    "id": "MRD-130",
+    "imageUrl": "images/mrd130.jpg",
+    "checked": false,
+    "quantity": 0
+  },
+  {
+    "name": "Mirror Force",
+    "id": "MRD-138",
+    "imageUrl": "images/mrd138.jpg",
+    "checked": false,
+    "quantity": 0
+  },
+  {
+    "name": "Heavy Storm",
+    "id": "MRD-142",
+    "imageUrl": "images/mrd142.jpg",
+    "checked": false,
+    "quantity": 0
+  },
+  {
+    "id": "MRD-143",
+    "name": "Thousand Dragon",
+    "checked": false,
+    "quantity": 0,
+    "imageUrl": "images/mrd143.jpg"
+  }
+
+]

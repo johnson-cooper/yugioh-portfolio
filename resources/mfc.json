@@ -1,0 +1,156 @@
+[
+    {
+        "name": "Amazoness Archers",
+        "id": "MFC-096",
+        "imageUrl": "images/MFC_MFC-096.jpg",
+        "checked": false,
+        "quantity": 0
+    },
+    {
+        "name": "Amazoness Swords Woman",
+        "id": "MFC-061",
+        "imageUrl": "images/MFC_MFC-061.jpg",
+        "checked": false,
+        "quantity": 0
+    },
+    {
+        "name": "Breaker the Magical Warrior",
+        "id": "MFC-071",
+        "imageUrl": "images/MFC_MFC-071.jpg",
+        "checked": false,
+        "quantity": 0
+    },
+    {
+        "name": "Chaos Command Magician",
+        "id": "MFC-068",
+        "imageUrl": "images/MFC_MFC-068.jpg",
+        "checked": false,
+        "quantity": 0
+    },
+    {
+        "name": "Dark Magician Girl",
+        "id": "MFC-000",
+        "imageUrl": "images/MFC_MFC-000.jpg",
+        "checked": false,
+        "quantity": 0
+    },
+    {
+        "name": "Dark Paladin",
+        "id": "MFC-105",
+        "imageUrl": "images/MFC_MFC-105.jpg",
+        "checked": false,
+        "quantity": 0
+    },
+    {
+        "name": "Diffusion Wave-Motion",
+        "id": "MFC-107",
+        "imageUrl": "images/MFC_MFC-107.jpg",
+        "checked": false,
+        "quantity": 0
+    },
+    {
+        "name": "Double Spell",
+        "id": "MFC-106",
+        "imageUrl": "images/MFC_MFC-106.jpg",
+        "checked": false,
+        "quantity": 0
+    },
+    {
+        "name": "Luster Dragon",
+        "id": "MFC-058",
+        "imageUrl": "images/MFC_MFC-058.jpg",
+        "checked": false,
+        "quantity": 0
+    },
+    {
+        "name": "Paladin of White Dragon",
+        "id": "MFC-026",
+        "imageUrl": "images/MFC_MFC-026.jpg",
+        "checked": false,
+        "quantity": 0
+    },
+    {
+        "name": "Skilled Dark Magician",
+        "id": "MFC-065",
+        "imageUrl": "images/MFC_MFC-065.jpg",
+        "checked": false,
+        "quantity": 0
+    },
+    {
+        "name": "Skilled White Magician",
+        "id": "MFC-064",
+        "imageUrl": "images/MFC_MFC-064.jpg",
+        "checked": false,
+        "quantity": 0
+    },
+    {
+        "name": "Spell Canceller",
+        "id": "MFC-020",
+        "imageUrl": "images/MFC_MFC-020.jpg",
+        "checked": false,
+        "quantity": 0
+    },
+    {
+        "name": "Spell Shield Type-8",
+        "id": "MFC-043",
+        "imageUrl": "images/MFC_MFC-043.jpg",
+        "checked": false,
+        "quantity": 0
+    },
+    {
+        "name": "Tribe-Infecting Virus",
+        "id": "MFC-076",
+        "imageUrl": "images/MFC_MFC-076.jpg",
+        "checked": false,
+        "quantity": 0
+    },
+    {
+        "name": "X-Head Cannon",
+        "id": "MFC-004",
+        "imageUrl": "images/MFC_MFC-004.jpg",
+        "checked": false,
+        "quantity": 0
+    },
+    {
+        "name": "XY-Dragon Cannon",
+        "id": "MFC-051",
+        "imageUrl": "images/MFC_MFC-051.jpg",
+        "checked": false,
+        "quantity": 0
+    },
+    {
+        "name": "XYZ-Dragon Cannon",
+        "id": "MFC-052",
+        "imageUrl": "images/MFC_MFC-052.jpg",
+        "checked": false,
+        "quantity": 0
+    },
+    {
+        "name": "XZ-Tank Cannon",
+        "id": "MFC-053",
+        "imageUrl": "images/MFC_MFC-053.jpg",
+        "checked": false,
+        "quantity": 0
+    },
+    {
+        "name": "Y-Dragon Head",
+        "id": "MFC-005",
+        "imageUrl": "images/MFC_MFC-005.jpg",
+        "checked": false,
+        "quantity": 0
+    },
+    {
+        "name": "YZ-Tank Dragon",
+        "id": "MFC-054",
+        "imageUrl": "images/MFC_MFC-054.jpg",
+        "checked": false,
+        "quantity": 0
+    },
+    {
+        "name": "Z-Metal Tank",
+        "id": "MFC-006",
+        "imageUrl": "images/MFC_MFC-006.jpg",
+        "checked": false,
+        "quantity": 0
+    }
+]

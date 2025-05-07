@@ -1,0 +1,156 @@
+[
+    {
+        "name": "Axe of Despair",
+        "id": "SRL-002",
+        "imageUrl": "images/SRL_SRL-002.jpg",
+        "checked": false,
+        "quantity": 0
+    },
+    {
+        "name": "Banisher of the Light",
+        "id": "SRL-078",
+        "imageUrl": "images/SRL_SRL-078.jpg",
+        "checked": false,
+        "quantity": 0
+    },
+    {
+        "name": "Black Illusion Ritual",
+        "id": "SRL-051",
+        "imageUrl": "images/SRL_SRL-051.jpg",
+        "checked": false,
+        "quantity": 0
+    },
+    {
+        "name": "Black Pendant",
+        "id": "SRL-003",
+        "imageUrl": "images/SRL_SRL-003.jpg",
+        "checked": false,
+        "quantity": 0
+    },
+    {
+        "name": "Blue-Eyes Toon Dragon",
+        "id": "SRL-000",
+        "imageUrl": "images/SRL_SRL-000.jpg",
+        "checked": false,
+        "quantity": 0
+    },
+    {
+        "name": "Confiscation",
+        "id": "SRL-038",
+        "imageUrl": "images/SRL_SRL-038.jpg",
+        "checked": false,
+        "quantity": 0
+    },
+    {
+        "name": "Delinquent Duo",
+        "id": "SRL-039",
+        "imageUrl": "images/SRL_SRL-039.jpg",
+        "checked": false,
+        "quantity": 0
+    },
+    {
+        "name": "Giant Trunade",
+        "id": "SRL-048",
+        "imageUrl": "images/SRL_SRL-048.jpg",
+        "checked": false,
+        "quantity": 0
+    },
+    {
+        "name": "Invader of the Throne",
+        "id": "SRL-026",
+        "imageUrl": "images/SRL_SRL-026.jpg",
+        "checked": false,
+        "quantity": 0
+    },
+    {
+        "name": "Maha Vailo",
+        "id": "SRL-012",
+        "imageUrl": "images/SRL_SRL-012.jpg",
+        "checked": false,
+        "quantity": 0
+    },
+    {
+        "name": "Megamorph",
+        "id": "SRL-061",
+        "imageUrl": "images/SRL_SRL-061.jpg",
+        "checked": false,
+        "quantity": 0
+    },
+    {
+        "name": "Messenger of Peace",
+        "id": "SRL-102",
+        "imageUrl": "images/SRL_SRL-102.jpg",
+        "checked": false,
+        "quantity": 0
+    },
+    {
+        "name": "Mystical Space Typhoon",
+        "id": "SRL-047",
+        "imageUrl": "images/SRL_SRL-047.jpg",
+        "checked": false,
+        "quantity": 0
+    },
+    {
+        "name": "Painful Choice",
+        "id": "SRL-049",
+        "imageUrl": "images/SRL_SRL-049.jpg",
+        "checked": false,
+        "quantity": 0
+    },
+    {
+        "name": "Relinquished",
+        "id": "SRL-029",
+        "imageUrl": "images/SRL_SRL-029.jpg",
+        "checked": false,
+        "quantity": 0
+    },
+    {
+        "name": "Serpent Night Dragon",
+        "id": "SRL-103",
+        "imageUrl": "images/SRL_SRL-103.jpg",
+        "checked": false,
+        "quantity": 0
+    },
+    {
+        "name": "Snatch Steal",
+        "id": "SRL-036",
+        "imageUrl": "images/SRL_SRL-036.jpg",
+        "checked": false,
+        "quantity": 0
+    },
+    {
+        "name": "Spellbinding Circle",
+        "id": "SRL-006",
+        "imageUrl": "images/SRL_SRL-006.jpg",
+        "checked": false,
+        "quantity": 0
+    },
+    {
+        "name": "The Forceful Sentry",
+        "id": "SRL-045",
+        "imageUrl": "images/SRL_SRL-045.jpg",
+        "checked": false,
+        "quantity": 0
+    },
+    {
+        "name": "Toon Mermaid",
+        "id": "SRL-072",
+        "imageUrl": "images/SRL_SRL-072.jpg",
+        "checked": false,
+        "quantity": 0
+    },
+    {
+        "name": "Toon Summoned Skull",
+        "id": "SRL-073",
+        "imageUrl": "images/SRL_SRL-073.jpg",
+        "checked": false,
+        "quantity": 0
+    },
+    {
+        "name": "Toon World",
+        "id": "SRL-076",
+        "imageUrl": "images/SRL_SRL-076.jpg",
+        "checked": false,
+        "quantity": 0
+    }
+]

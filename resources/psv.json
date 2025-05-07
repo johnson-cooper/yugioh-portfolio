@@ -1,0 +1,156 @@
+[
+    {
+        "name": "Backup Soldier",
+        "id": "PSV-028",
+        "imageUrl": "images/PSV_PSV-028.jpg",
+        "checked": false,
+        "quantity": 0
+    },
+    {
+        "name": "Beast of Talwar",
+        "id": "PSV-103",
+        "imageUrl": "images/PSV_PSV-103.jpg",
+        "checked": false,
+        "quantity": 0
+    },
+    {
+        "name": "Buster Blader",
+        "id": "PSV-050",
+        "imageUrl": "images/PSV_PSV-050.jpg",
+        "checked": false,
+        "quantity": 0
+    },
+    {
+        "name": "Call of the Haunted",
+        "id": "PSV-012",
+        "imageUrl": "images/PSV_PSV-012.jpg",
+        "checked": false,
+        "quantity": 0
+    },
+    {
+        "name": "Ceasefire",
+        "id": "PSV-030",
+        "imageUrl": "images/PSV_PSV-030.jpg",
+        "checked": false,
+        "quantity": 0
+    },
+    {
+        "name": "Chain Destruction",
+        "id": "PSV-006",
+        "imageUrl": "images/PSV_PSV-006.jpg",
+        "checked": false,
+        "quantity": 0
+    },
+    {
+        "name": "Dust Tornado",
+        "id": "PSV-011",
+        "imageUrl": "images/PSV_PSV-011.jpg",
+        "checked": false,
+        "quantity": 0
+    },
+    {
+        "name": "Fairy Meteor Crush",
+        "id": "PSV-063",
+        "imageUrl": "images/PSV_PSV-063.jpg",
+        "checked": false,
+        "quantity": 0
+    },
+    {
+        "name": "Gearfried the Iron Knight",
+        "id": "PSV-101",
+        "imageUrl": "images/PSV_PSV-101.jpg",
+        "checked": false,
+        "quantity": 0
+    },
+    {
+        "name": "Goblin Attack Force",
+        "id": "PSV-094",
+        "imageUrl": "images/PSV_PSV-094.jpg",
+        "checked": false,
+        "quantity": 0
+    },
+    {
+        "name": "Graverobber",
+        "id": "PSV-008",
+        "imageUrl": "images/PSV_PSV-008.jpg",
+        "checked": false,
+        "quantity": 0
+    },
+    {
+        "name": "Imperial Order",
+        "id": "PSV-104",
+        "imageUrl": "images/PSV_PSV-104.jpg",
+        "checked": false,
+        "quantity": 0
+    },
+    {
+        "name": "Jinzo",
+        "id": "PSV-000",
+        "imageUrl": "images/PSV_PSV-000.jpg",
+        "checked": false,
+        "quantity": 0
+    },
+    {
+        "name": "Limiter Removal",
+        "id": "PSV-064",
+        "imageUrl": "images/PSV_PSV-064.jpg",
+        "checked": false,
+        "quantity": 0
+    },
+    {
+        "name": "Magical Hats",
+        "id": "PSV-033",
+        "imageUrl": "images/PSV_PSV-033.jpg",
+        "checked": false,
+        "quantity": 0
+    },
+    {
+        "name": "Mirror Wall",
+        "id": "PSV-016",
+        "imageUrl": "images/PSV_PSV-016.jpg",
+        "checked": false,
+        "quantity": 0
+    },
+    {
+        "name": "Nobleman of Crossout",
+        "id": "PSV-034",
+        "imageUrl": "images/PSV_PSV-034.jpg",
+        "checked": false,
+        "quantity": 0
+    },
+    {
+        "name": "Parasite Paracide",
+        "id": "PSV-003",
+        "imageUrl": "images/PSV_PSV-003.jpg",
+        "checked": false,
+        "quantity": 0
+    },
+    {
+        "name": "Premature Burial",
+        "id": "PSV-037",
+        "imageUrl": "images/PSV_PSV-037.jpg",
+        "checked": false,
+        "quantity": 0
+    },
+    {
+        "name": "The Fiend Megacyber",
+        "id": "PSV-100",
+        "imageUrl": "images/PSV_PSV-100.jpg",
+        "checked": false,
+        "quantity": 0
+    },
+    {
+        "name": "The Legendary Fisherman",
+        "id": "PSV-076",
+        "imageUrl": "images/PSV_PSV-076.jpg",
+        "checked": false,
+        "quantity": 0
+    },
+    {
+        "name": "Thousand-Eyes Restrict",
+        "id": "PSV-084",
+        "imageUrl": "images/PSV_PSV-084.jpg",
+        "checked": false,
+        "quantity": 0
+    }
+]

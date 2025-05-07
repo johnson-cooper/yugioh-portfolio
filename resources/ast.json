@@ -1,0 +1,156 @@
+[
+    {
+        "name": "Amplifier",
+        "id": "AST-040",
+        "imageUrl": "images/AST_AST-040.jpg",
+        "checked": false,
+        "quantity": 0
+    },
+    {
+        "name": "Archlord Zerato",
+        "id": "AST-034",
+        "imageUrl": "images/AST_AST-034.jpg",
+        "checked": false,
+        "quantity": 0
+    },
+    {
+        "name": "Blowback Dragon",
+        "id": "AST-022",
+        "imageUrl": "images/AST_AST-022.jpg",
+        "checked": false,
+        "quantity": 0
+    },
+    {
+        "name": "Burst Stream of Destruction",
+        "id": "AST-038",
+        "imageUrl": "images/AST_AST-038.jpg",
+        "checked": false,
+        "quantity": 0
+    },
+    {
+        "name": "Curse of Anubis",
+        "id": "AST-105",
+        "imageUrl": "images/AST_AST-105.jpg",
+        "checked": false,
+        "quantity": 0
+    },
+    {
+        "name": "Dark Magic Attack",
+        "id": "AST-095",
+        "imageUrl": "images/AST_AST-095.jpg",
+        "checked": false,
+        "quantity": 0
+    },
+    {
+        "name": "Des Counterblow",
+        "id": "AST-107",
+        "imageUrl": "images/AST_AST-107.jpg",
+        "checked": false,
+        "quantity": 0
+    },
+    {
+        "name": "Emissary of the Afterlife",
+        "id": "AST-076",
+        "imageUrl": "images/AST_AST-076.jpg",
+        "checked": false,
+        "quantity": 0
+    },
+    {
+        "name": "Enemy Controller",
+        "id": "AST-037",
+        "imageUrl": "images/AST_AST-037.jpg",
+        "checked": false,
+        "quantity": 0
+    },
+    {
+        "name": "Gear Golem the Moving Fortress",
+        "id": "AST-018",
+        "imageUrl": "images/AST_AST-018.jpg",
+        "checked": false,
+        "quantity": 0
+    },
+    {
+        "name": "Ghost Knight of Jackal",
+        "id": "AST-071",
+        "imageUrl": "images/AST_AST-071.jpg",
+        "checked": false,
+        "quantity": 0
+    },
+    {
+        "name": "Legacy Hunter",
+        "id": "AST-067",
+        "imageUrl": "images/AST_AST-067.jpg",
+        "checked": false,
+        "quantity": 0
+    },
+    {
+        "name": "Mazera DeVille",
+        "id": "AST-111",
+        "imageUrl": "images/AST_AST-111.jpg",
+        "checked": false,
+        "quantity": 0
+    },
+    {
+        "name": "Needle Burrower",
+        "id": "AST-020",
+        "imageUrl": "images/AST_AST-020.jpg",
+        "checked": false,
+        "quantity": 0
+    },
+    {
+        "name": "Spirit of the Pharaoh",
+        "id": "AST-062",
+        "imageUrl": "images/AST_AST-062.jpg",
+        "checked": false,
+        "quantity": 0
+    },
+    {
+        "name": "Stone Statue of the Aztecs",
+        "id": "AST-014",
+        "imageUrl": "images/AST_AST-014.jpg",
+        "checked": false,
+        "quantity": 0
+    },
+    {
+        "name": "The Agent of Force - Mars",
+        "id": "AST-009",
+        "imageUrl": "images/AST_AST-009.jpg",
+        "checked": false,
+        "quantity": 0
+    },
+    {
+        "name": "The Agent of Judgment - Saturn",
+        "id": "AST-006",
+        "imageUrl": "images/AST_AST-006.jpg",
+        "checked": false,
+        "quantity": 0
+    },
+    {
+        "name": "The End of Anubis",
+        "id": "AST-000",
+        "imageUrl": "images/AST_AST-000.jpg",
+        "checked": false,
+        "quantity": 0
+    },
+    {
+        "name": "The First Sarcophagus",
+        "id": "AST-101",
+        "imageUrl": "images/AST_AST-101.jpg",
+        "checked": false,
+        "quantity": 0
+    },
+    {
+        "name": "The Sanctuary in the Sky",
+        "id": "AST-042",
+        "imageUrl": "images/AST_AST-042.jpg",
+        "checked": false,
+        "quantity": 0
+    },
+    {
+        "name": "Zaborg the Thunder Monarch",
+        "id": "AST-023",
+        "imageUrl": "images/AST_AST-023.jpg",
+        "checked": false,
+        "quantity": 0
+    }
+]

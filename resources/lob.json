@@ -1,0 +1,157 @@
+[
+  {
+    "id": "LOB-000",
+    "name": "Tri-Horned Dragon",
+    "checked": false,
+    "quantity": 0,
+    "imageUrl": "images/22538.jpg"
+  },
+  {
+    "id": "LOB-001",
+    "name": "Blue-Eyes White Dragon",
+    "checked": false,
+    "quantity": 0,
+    "imageUrl": "images/21792.jpg"
+  },
+  {
+    "id": "LOB-005",
+    "name": "Dark Magician",
+    "checked": false,
+    "quantity": 0,
+    "imageUrl": "images/21878.jpg"
+  },
+  {
+    "id": "LOB-006",
+    "name": "Gaia the Fierce Knight",
+    "checked": false,
+    "quantity": 0,
+    "imageUrl": "images/22003.jpg"
+  },
+  {
+    "id": "LOB-007",
+    "name": "Curse of Dragon",
+    "checked": false,
+    "quantity": 0,
+    "imageUrl": "images/21851.jpg"
+  },
+  {
+    "id": "LOB-008",
+    "name": "Celtic Guardian",
+    "checked": false,
+    "quantity": 0,
+    "imageUrl": "images/21823.jpg"
+  },
+  {
+    "id": "LOB-018",
+    "name": "Flame Swordsman",
+    "checked": false,
+    "quantity": 0,
+    "imageUrl": "images/21980.jpg"
+  },
+  {
+    "id": "LOB-035",
+    "name": "Mystical Elf",
+    "checked": false,
+    "quantity": 0,
+    "imageUrl": "images/22251.jpg"
+  },
+  {
+    "id": "LOB-041",
+    "name": "Dark Hole",
+    "checked": false,
+    "quantity": 0,
+    "imageUrl": "images/21873.jpg"
+  },
+  {
+    "id": "LOB-042",
+    "name": "Raigeki",
+    "checked": false,
+    "quantity": 0,
+    "imageUrl": "images/22327.jpg"
+  },
+  {
+    "id": "LOB-047",
+    "name": "Polymerization",
+    "checked": false,
+    "quantity": 0,
+    "imageUrl": "images/22308.jpg"
+  },
+  {
+    "id": "LOB-058",
+    "name": "Trap Hole",
+    "checked": false,
+    "quantity": 0,
+    "imageUrl": "images/22534.jpg"
+  },
+  {
+    "id": "LOB-070",
+    "name": "Red-Eyes Black Dragon",
+    "checked": false,
+    "quantity": 0,
+    "imageUrl": "images/22341.jpg"
+  },
+  {
+    "id": "LOB-081",
+    "name": "Swords of Revealing Light",
+    "checked": false,
+    "quantity": 0,
+    "imageUrl": "images/22474.jpg"
+  },
+  {
+    "id": "LOB-096",
+    "name": "Monster Reborn",
+    "checked": false,
+    "quantity": 0,
+    "imageUrl": "images/22233.jpg"
+  },
+  {
+    "id": "LOB-097",
+    "name": "Right Leg of the Forbidden One",
+    "checked": false,
+    "quantity": 0,
+    "imageUrl": "images/22352.jpg"
+  },
+  {
+    "id": "LOB-098",
+    "name": "Left Leg of the Forbidden One",
+    "checked": false,
+    "quantity": 0,
+    "imageUrl": "images/22150.jpg"
+  },
+  {
+    "id": "LOB-099",
+    "name": "Right Arm of the Forbidden One",
+    "checked": false,
+    "quantity": 0,
+    "imageUrl": "images/22351.jpg"
+  },
+  {
+    "id": "LOB-100",
+    "name": "Left Arm of the Forbidden One",
+    "checked": false,
+    "quantity": 0,
+    "imageUrl": "images/22149.jpg"
+  },
+  {
+    "id": "LOB-108",
+    "name": "Man-Eater Bug",
+    "checked": false,
+    "quantity": 0,
+    "imageUrl": "images/22191.jpg"
+  },
+  
+  {
+    "id": "LOB-124",
+    "name": "Exodia the Forbidden One",
+    "checked": false,
+    "quantity": 0,
+    "imageUrl": "images/21954.jpg"
+  },
+  {
+    "id": "LOB-125",
+    "name": "Gaia the Dragon Champion",
+    "checked": false,
+    "quantity": 0,
+    "imageUrl": "images/22002.jpg"
+  }
+]

@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>YU-GI-OH VINTAGE PORTFOLIO</title>
+  <link href="bootstrap.min.css" rel="stylesheet"/>
+  <link href="styles.css" rel="stylesheet"/>
+</head>
+<body class="bg-dark text-light p-4">
+  <div class="container">
+    <h1 class="h3 fw-bold mb-4 text-light">YU-GI-OH VINTAGE PORTFOLIO</h1>
+    <h5 class="h3 fw-bold mb-4 text-light">Created by rarehuntertcg.com</h1>
+
+    <div class="mb-4">
+      <label for="set-selector" class="form-label">Select Set:</label>
+      <select id="set-selector" class="form-select mb-3" style="max-width: 200px;">
+        <option value="lob">LOB</option>
+        <option value="mrd">MRD</option>
+        <option value="srl">MRL/SRL</option>
+        <option value="psv">PSV</option>
+        <option value="lon">LON</option>
+        <option value="lod">LOD</option>
+        <option value="dcr">DCR</option>
+        <option value="ioc">IOC</option>
+        <option value="ast">AST</option>
+        <!-- Add more sets here -->
+      </select>
+    
+      <button id="save-button" class="btn btn-dark me-2">Save</button>
+      <button id="load-button" class="btn btn-dark">Load</button>
+    </div>
+    
+    <div id="set-counter" class="text-light mb-3 fw-bold">0/0 cards owned</div>
+    <div id="card-container" class="row g-4"></div>
+  </div>
+
+  <script src="js/bootstrap.bundle.min.js"></script>
+  <script src="js/neutralino.js"></script>
+  <script src="js/counter.js"></script>
+  <script src="js/render.js"></script>
+  <script src="js/script.js"></script>
+</body>
+</html>
