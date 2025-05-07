@@ -1,0 +1,16 @@
+[
+  {
+    "id": "1",
+    "name": "Blue-Eyes White Dragon",
+    "checked": true,
+    "quantity": 2,
+    "imageUrl": "images/blue-eyes.jpg"
+  },
+  {
+    "id": "2",
+    "name": "Dark Magician",
+    "checked": false,
+    "quantity": 0,
+    "imageUrl": "images/dark-magician.jpg"
+  }
+]
